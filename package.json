@@ -1,0 +1,14 @@
+{
+  "name": "c8y-realtime-widgets",
+  "version": "1.0.0",
+  "description": "Cumulocity Widgets displaying realtime data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bozhidar Dedov",
+  "license": "ISC",
+  "dependencies": {
+    "cumulocity-ui-build": "http://resources.cumulocity.com/webapps/ui/8.19.7.tar.gz"
+  }
+}

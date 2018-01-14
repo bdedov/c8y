@@ -1,0 +1,15 @@
+{
+  "name": "Realtime Measurments",
+  "description": "Displays a list of the values for a given measurement given a measurement type.",
+  "ngModules": [
+    "realtime.measurements"
+  ],
+  "js": [
+    "realtime-measurements.module.js",
+    "realtime-measurements.config.js",
+    "realtime-measurements.controller.js"
+  ],
+  "imports": [],
+  "css": [],
+  "copy": []
+}

@@ -1,0 +1,5 @@
+<div ng-controller="measurementsController">
+    <ul>
+        <li ng-repeat="m in measurements track by $index">{{m.CustomMeasurement.fahrenheit.value}} ({{m.CustomMeasurement.fahrenheit.unit}})</li>
+    </ul>
+</div>
